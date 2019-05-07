@@ -1,0 +1,17 @@
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll.config
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\Hoyan.Dapper.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\DBAccess.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\bin\Debug\netcoreapp2.0\Hoyan.Dapper.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CopyComplete

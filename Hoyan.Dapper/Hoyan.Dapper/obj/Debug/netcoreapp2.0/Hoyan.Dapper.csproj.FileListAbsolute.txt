@@ -1,0 +1,12 @@
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\bin\Debug\netcoreapp2.0\Hoyan.Dapper.deps.json
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\bin\Debug\netcoreapp2.0\Hoyan.Dapper.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\bin\Debug\netcoreapp2.0\Hoyan.Dapper.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.csprojAssemblyReference.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.csproj.CoreCompileInputs.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.AssemblyInfoInputs.cache
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.AssemblyInfo.cs
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\bin\Debug\netcoreapp2.0\DBAccess.dll
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\bin\Debug\netcoreapp2.0\DBAccess.pdb
+F:\MyProject\dotnetCore\Dapper\Hoyan.Dapper\Hoyan.Dapper\obj\Debug\netcoreapp2.0\Hoyan.Dapper.csproj.CopyComplete
